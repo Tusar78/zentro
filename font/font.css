@@ -1,0 +1,51 @@
+@font-face{
+	font-family:"Lato-Regular";
+	src:url("../font/Lato-Regular.ttf") format("truetype"),
+	url("../font/Lato-Regular.eot") format("eot"),	
+	url("../font/Lato-Regular.woff") format("woff"),
+	url("../font/Lato-Regular.svg#Lato-Regular") format("svg");
+}
+@font-face{
+	font-family:"qlassik";
+	src:url("../font/Qlassik.eot") format("eot"),
+	url("../font/Qlassik.woff") format("woff"),
+	url("../font/Qlassik.ttf") format("truetype"),
+	url("../font/Qlassik.svg#Qlassik") format("svg");
+}
+@font-face{
+	font-family:"montserrat";
+	src:url("../font/montserrat.eot") format("eot"),
+	url("../font/montserrat.woff") format("woff"),
+	url("../font/montserrat.ttf") format("truetype"),
+	url("../font/montserrat.svg#montserrat") format("svg");
+}
+@font-face{
+	font-family:"robotoslab";
+	src:url("../font/robotoslab.eot") format("eot"),
+	url("../font/robotoslab.woff") format("woff"),
+	url("../font/robotoslab.ttf") format("truetype"),
+	url("../font/robotoslab.svg#robotoslab") format("svg");
+}
+@font-face{
+	font-family:"ptsansb";
+	src:url("../font/ptsansb.eot") format("eot"),
+	url("../font/ptsansb.woff") format("woff"),
+	url("../font/ptsansb.ttf") format("truetype"),
+	url("../font/ptsansb.svg#ptsansb") format("svg");
+}
+
+@font-face{
+	font-family:"ptsansr";
+	src:url("../font/ptsansr.eot") format("eot"),
+	url("../font/ptsansr.woff") format("woff"),
+	url("../font/ptsansr.ttf") format("truetype"),
+	url("../font/ptsansr.svg#ptsansr") format("svg");
+}
+@font-face{
+	font-family:"latolight";
+	src:url("../font/latolight.eot") format("eot"),
+	url("../font/latolight.woff") format("woff"),
+	url("../font/latolight.ttf") format("truetype"),
+	url("../font/latolight.svg#latolight") format("svg");
+}
+
